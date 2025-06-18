@@ -1,2 +1,2 @@
-# min-max-normalization-workshop
-min-max-normalization-workshop
+# PROG8245_week7
+MinMax_Normalization_Workshop
